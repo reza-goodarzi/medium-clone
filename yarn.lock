@@ -106,7 +106,7 @@
     "@sanity/block-content-to-hyperscript" "^2.0.10"
     prop-types "^15.6.2"
 
-"@sanity/client@^3.2.0", "@sanity/client@^3.3.0":
+"@sanity/client@^3.2.0", "@sanity/client@^3.3.0", "@sanity/client@^3.3.1":
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/@sanity/client/-/client-3.3.1.tgz#d07ff73557be2eef35ecc5b09e0347d0bdfe859a"
   integrity sha512-kSnOSQaiCpdP0JnfC0MXebuQ/jM6/HCqyMdQ+/nxeqnbxHgXEWovcTP6x5Aom7485/vFdzL7NPsUrCOvye+rcA==
@@ -899,6 +899,11 @@ react-dom@18.1.0:
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.22.0"
+
+react-hook-form@^7.31.3:
+  version "7.31.3"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.31.3.tgz#b61bafb9a7435f91695351a7a9f714d8c4df0121"
+  integrity sha512-NVZdCWViIWXXXlQ3jxVQH0NuNfwPf8A/0KvuCxrM9qxtP1qYosfR2ZudarziFrVOC7eTUbWbm1T4OyYCwv9oSQ==
 
 react-is@^16.13.1:
   version "16.13.1"
