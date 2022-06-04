@@ -4,4 +4,4 @@ this is a mini project of cloning Medium.com with using Typescript Next.js on th
 
 ## Demo
 
-you can see the project on [here](https://medium-clone-ashy-three.vercel.app/)
+you can see the project [here](https://medium-clone-ashy-three.vercel.app/)
